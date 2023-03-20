@@ -1,0 +1,7 @@
+# patika-sql-exercises
+
+1- film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
+
+SELECT title, description from film
+
+![1](https://user-images.githubusercontent.com/75025116/226305188-a4c881b1-d121-4f8d-98c0-21cf5f45ae25.JPG)
